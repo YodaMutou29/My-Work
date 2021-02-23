@@ -7,6 +7,7 @@ using namespace std;
 int fibonacci(int);
 int fibonacci2(int);
 int multiply(string, string);
+int divide(int, int);
 void mergeSort(int[], int, int);
 void merge(int[], int, int, int);
 
@@ -44,6 +45,10 @@ int main(){
         break;
 
       case 3:
+        cout << "Please enter...";
+        break;
+
+      case 4:
         int numbersToSort;
         cout << "How many numbers do you want to sort?" << endl;
         cin >> numbersToSort;
@@ -132,10 +137,14 @@ int multiply(string n1, string n2) {
     (p3 - p1 - p2) * pow(10.0, (double)n / 2) + p2;
 }
 
-void merge(int[], int, int, int) {
+int divide(int x, int y) {
 
 }
 
-void mergeSort(int[], int, int) {
+void merge(int[] numbers, int i, int j, int k) {
+
+}
+
+void mergeSort(int[] numbers, int i, int k) {
 
 }
