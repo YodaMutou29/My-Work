@@ -1,1 +1,2 @@
-This is a repository created to show prospective employers my work and to work on my efficiency with Github.
+#Programming Solutions and Other Projects
+My solutions to Kattis and UVa problems. There are also a few assorted projects under the school work folder.
