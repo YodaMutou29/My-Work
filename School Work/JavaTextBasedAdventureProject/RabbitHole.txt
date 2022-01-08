@@ -1,0 +1,171 @@
+You run after the rabbit as fast as you
+can. He is a lot faster than you but you 
+manage to stay close enough to see him 
+crawl into a little hole in the bush.
+
+Do you:
+	a)crawl into the hole
+	b)look around the bush
+
+/n
+
+You cautiously look around the bush. You can't 
+see much inside but you see a shiny piece of metal
+in the grass behind it.
+
+Do you:
+	a)pick up the piece of metal
+	b)crawl into the hole
+
+/n
+
+You pick up the shiny piece of metal and see 
+that it is engraved with the word "Cheshire" 
+on one side. How peculiar! 
+
+***** piece of metal has been added to inventory *****
+
+Do you: 
+	a)look around for more items
+	b)crawl into the hole
+
+/n
+
+You look for more items but there are no more 
+items of interest laying around.
+
+Do you:
+	a)look around for more items
+	b)crawl into the hole
+
+/n
+
+You crawl into the hole in the bush and 
+suddenly feel yourself falling! You assume it 
+is a small drop, as it's only a rabbit hole, 
+but you don't see the ground at all. There are 
+items falling around you, including matches, a 
+candlestick, and a pick axe.
+
+Do you:	
+	a)take one of the items
+	b)look around
+	c)open bag
+
+/n
+
+Which item do you want to take?
+	a)matches
+	b)candlestick
+	c)pick axe
+
+/n
+
+You frantically search for more items that might 
+be around you but there appears to be nothing else.
+You'd better use one of the items that you know are 
+around you.
+
+Do you:
+	a)take one of the items
+	b)look around
+	c)open bag
+
+/n
+
+You take the matches.
+
+***** matches have been added to inventory *****
+
+Do you:
+	a)take one of the items
+	b)look around
+	c)open bag
+
+/n
+
+You take the candlestick.
+
+***** candlestick has been added to inventory *****
+
+Do you:
+	a)take one of the items
+	b)look around
+	c)open bag
+
+/n
+
+You take the pick axe.
+
+***** pick axe has been added to inventory *****
+
+Do you:
+	a)take one of the items
+	b)look around
+	c)open bag
+
+/n
+
+You open your bag. Here are the items inside:
+
+/n
+
+You combine the matches and the candlestick but there's
+still no ground in sight.
+
+Do you:
+	a)open bag
+	b)drop candlestick
+
+/n
+
+You drop the candlestick. It falls a long, long way 
+down but you don't hear it hit the bottom.
+
+Do you:
+	a)open bag
+	b)look around
+
+/n
+
+You can't do anything with that right now.
+
+/n
+
+You take a swing at the wall of the rabbit hole 
+with the pick axe and it sticks! You're not sure 
+exactly how you're going to get out of the hole 
+but you're glad to take a break from falling.
+
+What's that?? You hear a screeching noise and the 
+sound of wings flapping...suddenly something dives 
+at your head and spits out a burst of flames that just 
+misses your head! It flies the other way but you can
+tell it's not going to leave you alone.
+
+Do you:
+	a)let go of pick axe
+	b)open bag
+	c)fight
+
+/n
+
+You take out your dagger.
+
+***** You have entered a battle! *****
+
+/n
+
+You let go of the pick axe and start falling again.
+
+Do you:
+	a)open bag
+	b)look around
+
+/n
+The bat starts falling with you and you grab onto one 
+of its wings. As you do, you notice a magical barrier 
+beneath you starts to open up and there seems to be light 
+on the other side. Holding the bat's wing, you glide down 
+to the floor and land in a hallway with many doors of 
+different shapes and sizes.
